@@ -9,6 +9,7 @@ products: [
       brand: 'Nike',
       rating: 4.5,
       numReviews: 10,
+      countInStock: 110,
       description: 'High quality product',  
     },
     {
@@ -20,6 +21,7 @@ products: [
         brand: 'Nike',
         rating: 4.5,
         numReviews: 10,
+        countInStock: 0,
         description: 'High quality product',  
       },
       {
@@ -31,6 +33,7 @@ products: [
         brand: 'Lee',
         rating: 4.5,
         numReviews: 10,
+        countInStock: 10,
         description: 'High quality product',  
       },
       {
@@ -42,6 +45,7 @@ products: [
         brand: 'Lacoste',
         rating: 4.5,
         numReviews: 10,
+        countInStock: 20,
         description: 'High quality product',  
       },
       {
@@ -53,6 +57,7 @@ products: [
         brand: 'Adidas',
         rating: 4.5,
         numReviews: 10,
+        countInStock: 0,
         description: 'High quality product',  
       },
       {
@@ -64,6 +69,7 @@ products: [
         brand: 'Puma',
         rating: 4.5,
         numReviews: 10,
+        countInStock: 1,
         description: 'High quality product',  
       },
 ]}
